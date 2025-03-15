@@ -1,5 +1,3 @@
-![Build Status](https://github.com/tuke307/LapTimer/actions/workflows/dotnet-core.yml/badge.svg)
-
 # LapTimer
 
 ## Home
